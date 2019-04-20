@@ -1,0 +1,7 @@
+---
+output: github_document
+---
+
+# My ReadMe document
+  
+This is a demo package that performs a Monte Carlo integration and plots the according graph.
